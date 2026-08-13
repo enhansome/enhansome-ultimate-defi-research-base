@@ -8,19 +8,19 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 32 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,801 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-26 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,804 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-26 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
 |        Navigation        | Instant Link                                                                                                                                      |
 | :----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,207 \| 🐛 1 \| 📅 2026-03-14                            |
-|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,207 \| 🐛 1 \| 📅 2026-03-14                      |
-| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,207 \| 🐛 1 \| 📅 2026-03-14                                |
-|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,207 \| 🐛 1 \| 📅 2026-03-14                         |
-|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,207 \| 🐛 1 \| 📅 2026-03-14                                |
-|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,207 \| 🐛 1 \| 📅 2026-03-14 |
-|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,207 \| 🐛 1 \| 📅 2026-03-14             |
+|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,208 \| 🐛 2 \| 📅 2026-03-14                            |
+|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,208 \| 🐛 2 \| 📅 2026-03-14                      |
+| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,208 \| 🐛 2 \| 📅 2026-03-14                                |
+|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,208 \| 🐛 2 \| 📅 2026-03-14                         |
+|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,208 \| 🐛 2 \| 📅 2026-03-14                                |
+|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,208 \| 🐛 2 \| 📅 2026-03-14 |
+|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,208 \| 🐛 2 \| 📅 2026-03-14             |
 
 **| Special Author's Notes:**
 
@@ -402,8 +402,8 @@ __________                 ___________           .__           .____    .__     
 ## Favourites:
 
 * [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list) ⚠️ Archived
-* [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) ⭐ 2,673 | 🐛 5 | 📅 2024-05-31
-* [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) ⭐ 376 | 🐛 6 | 🌐 Python | 📅 2024-06-25
+* [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) ⭐ 2,675 | 🐛 5 | 📅 2024-05-31
+* [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) ⭐ 377 | 🐛 6 | 🌐 Python | 📅 2024-06-25
 * [Eth Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap) ⭐ 146 | 🐛 0 | 📅 2019-04-25
 * [Zhihu Research Base](https://zhuanlan.zhihu.com/p/265374061)
 * [OpenZeppelin - Contracts / Test Helpers + More ](https://github.com/OpenZeppelin)
@@ -411,10 +411,10 @@ __________                 ___________           .__           .____    .__     
 
 ## Developer Tools
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,343 | 🐛 468 | 🌐 Python | 📅 2026-08-12 - A Solidity static analysis framework
+* [Slither](https://github.com/crytic/slither) ⭐ 6,341 | 🐛 470 | 🌐 Python | 📅 2026-08-12 - A Solidity static analysis framework
 * [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,259 | 🐛 129 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
-* [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,523 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
+* [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,524 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
 * [Oyente](https://github.com/melonproject/oyente) ⚠️ Archived - Alternative static smart contract security analysis
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,028 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Visualise Solidity control flow for smart contract security analysis
 * [Ethersplay](https://github.com/crytic/ethersplay) ⚠️ Archived - EVM disassembler
@@ -435,7 +435,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Ethereum Tools
 
-* [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) ⭐ 376 | 🐛 6 | 🌐 Python | 📅 2024-06-25
+* [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) ⭐ 377 | 🐛 6 | 🌐 Python | 📅 2024-06-25
 * [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token) ⭐ 206 | 🐛 16 | 🌐 TypeScript | 📅 2026-02-13
 * [BIP39 Derivation](https://iancoleman.io/bip39)
 * [Ethereum Gas Charts](https://ethereumprice.org/gas)
@@ -459,7 +459,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Ethereum 2.0
 
-* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 151 | 🐛 9 | 🌐 Go | 📅 2026-08-11
+* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 151 | 🐛 10 | 🌐 Go | 📅 2026-08-13
 * [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk) ⭐ 102 | 🐛 18 | 🌐 Go | 📅 2026-06-04
 * [Beaconcha](https://beaconcha.in/)
 * [Beaconscan](https://beaconscan.com/)
@@ -468,11 +468,11 @@ __________                 ___________           .__           .____    .__     
 * [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 * [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/)
 
-## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,921 | 🐛 0 | 📅 2026-06-03
+## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,922 | 🐛 0 | 📅 2026-06-03
 
-### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,921 | 🐛 0 | 📅 2026-06-03
+### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,922 | 🐛 0 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,634 | 🐛 167 | 🌐 Elixir | 📅 2026-08-12
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,634 | 🐛 159 | 🌐 Elixir | 📅 2026-08-13
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 617 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
