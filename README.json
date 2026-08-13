@@ -1,0 +1,455 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Demystifying Exploitable Bugs in Smart Contracts",
+          "description": "The research indicates that a notable proportion of exploitable bugs in smart contracts are functional bugs, which cannot be detected using simple and general oracles like reentrancy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-06-19T06:26:28Z",
+            "owner": "ZhangZhuoSJTU",
+            "repo": "Web3Bugs",
+            "stars": 1817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A chronological and (hopefully) complete list of reentrancy attacks to date.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T10:51:41Z",
+            "owner": "pcaversaccio",
+            "repo": "reentrancy-attacks",
+            "stars": 1624
+          }
+        }
+      ],
+      "title": "Security & Safety:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ConsenSys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-03-09T17:40:55Z",
+            "owner": "Consensys",
+            "repo": "ethereum-developer-tools-list",
+            "stars": 5408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blockchain Learning Path",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-31T07:11:11Z",
+            "owner": "protofire",
+            "repo": "blockchain-learning-path",
+            "stars": 2673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slitherin: Slither Detectors by Pessimistic.io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-25T10:20:17Z",
+            "owner": "pessimistic-io",
+            "repo": "slitherin",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eth Dapp Developer Roadmap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-04-25T03:19:05Z",
+            "owner": "thecryptoshed",
+            "repo": "eth-dapp-developer-roadmap",
+            "stars": 146
+          }
+        }
+      ],
+      "title": "Favourites:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slither",
+          "description": "A Solidity static analysis framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:56:04Z",
+            "owner": "crytic",
+            "repo": "slither",
+            "stars": 6343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mythril",
+          "description": "Open-source EVM bytecode security analysis tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T04:13:25Z",
+            "owner": "ConsenSysDiligence",
+            "repo": "mythril",
+            "stars": 4259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manticore",
+          "description": "Symbolic execution tool on Smart Contracts and Binaries",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-24T16:28:22Z",
+            "owner": "trailofbits",
+            "repo": "manticore",
+            "stars": 3859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity security blog",
+          "description": "Comprehensive list of known attack vectors and common anti-patterns",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-23T12:06:25Z",
+            "owner": "sigp",
+            "repo": "solidity-security-blog",
+            "stars": 1523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oyente",
+          "description": "Alternative static smart contract security analysis",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-19T05:35:00Z",
+            "owner": "enzymefinance",
+            "repo": "oyente",
+            "stars": 1339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solgraph",
+          "description": "Visualise Solidity control flow for smart contract security analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-04T15:07:40Z",
+            "owner": "raineorshine",
+            "repo": "solgraph",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethersplay",
+          "description": "EVM disassembler",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-09-04T20:46:29Z",
+            "owner": "crytic",
+            "repo": "ethersplay",
+            "stars": 858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Buggy ERC20 Tokens",
+          "description": "A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-15T09:18:47Z",
+            "owner": "sec-bit",
+            "repo": "awesome-buggy-erc20-tokens",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evmdis",
+          "description": "Alternative EVM disassembler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-05-09T03:43:06Z",
+            "owner": "Arachnid",
+            "repo": "evmdis",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryptoFin Solidity Auditing Checklist",
+          "description": "A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-06T15:58:19Z",
+            "owner": "cryptofinlabs",
+            "repo": "audit-checklist",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Source",
+          "description": "DeFi Defence DAO collection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-19T01:02:10Z",
+            "owner": "defi-defense-dao",
+            "repo": "defi-risk-tools-list",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydra",
+          "description": "Framework for cryptoeconomic contract security, decentralised security bounties",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2018-03-02T15:03:45Z",
+            "owner": "IC3Hydra",
+            "repo": "Hydra",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum-datafarm",
+          "description": "Easy-to-use console app for parsing historical event data without requiring an archive node, using the Etherscan API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-25T14:26:40Z",
+            "owner": "nerolation",
+            "repo": "ethereum-datafarm",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solc-verify",
+          "description": "A modular verifier for Solidity smart contracts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-05T16:46:45Z",
+            "owner": "SRI-CSL",
+            "repo": "solidity",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adelaide",
+          "description": "The SECBIT static analysis extension to Solidity compiler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-01-31T11:08:25Z",
+            "owner": "sec-bit",
+            "repo": "adelaide",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slitherin: Slither Detectors by Pessimistic.io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-25T10:20:17Z",
+            "owner": "pessimistic-io",
+            "repo": "slitherin",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERC20 Meta Token Wrapper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-13T16:30:11Z",
+            "owner": "0xsequence",
+            "repo": "erc20-meta-token",
+            "stars": 206
+          }
+        }
+      ],
+      "title": "Ethereum Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ethereum 2.0 Multi-node Validator Client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T17:24:37Z",
+            "owner": "attestantio",
+            "repo": "vouch",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum 2.0 Distributed Remote Key Manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-04T15:26:36Z",
+            "owner": "attestantio",
+            "repo": "dirk",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Ethereum 2.0"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Transaction Visualization, Scoring & Tracking:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blockscout",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-12T18:59:35Z",
+            "owner": "blockscout",
+            "repo": "blockscout",
+            "stars": 4634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orbit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-15T09:47:59Z",
+            "owner": "s0md3v",
+            "repo": "Orbit",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arronax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T03:58:26Z",
+            "owner": "Cryptonomic",
+            "repo": "Arronax",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Moved here: Link"
+    },
+    {
+      "description": "Thank you! Stay safe!",
+      "items": [],
+      "title": ""
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:27.161Z",
+    "original_repository": "OffcierCia/ultimate-defi-research-base",
+    "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
+    "enhanced_repository": "enhansome/enhansome-ultimate-defi-research-base",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ultimate DeFi & Blockchain Research Base with stars"
+  }
+}
