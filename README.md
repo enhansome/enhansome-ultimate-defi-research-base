@@ -30,7 +30,7 @@
 
 * [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 644 | 🐛 0 | 📅 2026-08-12
 * [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 280 | 🐛 2 | 📅 2023-12-26
-* [Compendium](https://github.com/sambacha/compendium) ⭐ 215 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-07-29
+* [Compendium](https://github.com/sambacha/compendium) ⭐ 216 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-07-29
 * [blockchain science - rust edition](https://github.com/go-outside-labs/blockchain-science-rs) ⚠️ Archived
 * [ethereum-magicians.org](https://ethereum-magicians.org)
 * [smartcontractresearch.org](https://www.smartcontractresearch.org)
@@ -411,7 +411,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Developer Tools
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,341 | 🐛 470 | 🌐 Python | 📅 2026-08-12 - A Solidity static analysis framework
+* [Slither](https://github.com/crytic/slither) ⭐ 6,343 | 🐛 470 | 🌐 Python | 📅 2026-08-12 - A Solidity static analysis framework
 * [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,259 | 🐛 129 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,524 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
@@ -459,7 +459,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Ethereum 2.0
 
-* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 151 | 🐛 10 | 🌐 Go | 📅 2026-08-13
+* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 151 | 🐛 10 | 🌐 Go | 📅 2026-08-14
 * [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk) ⭐ 102 | 🐛 18 | 🌐 Go | 📅 2026-06-04
 * [Beaconcha](https://beaconcha.in/)
 * [Beaconscan](https://beaconscan.com/)
@@ -472,7 +472,7 @@ __________                 ___________           .__           .____    .__     
 
 ### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,922 | 🐛 0 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,634 | 🐛 159 | 🌐 Elixir | 📅 2026-08-13
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,635 | 🐛 163 | 🌐 Elixir | 📅 2026-08-14
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 617 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
