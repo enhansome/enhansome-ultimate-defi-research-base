@@ -53,7 +53,7 @@
             "last_commit": "2025-03-09T17:40:55Z",
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5408
+            "stars": 5407
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6343
+            "stars": 6345
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2026-08-14T17:55:51Z",
             "owner": "blockscout",
             "repo": "blockscout",
-            "stars": 4635
+            "stars": 4638
           }
         },
         {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:35:46.873Z",
+    "last_updated": "2026-08-15T23:33:35.533Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
     "enhanced_repository": "enhansome/enhansome-ultimate-defi-research-base",
