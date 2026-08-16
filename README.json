@@ -28,7 +28,7 @@
             "last_commit": "2026-07-20T10:51:41Z",
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1624
+            "stars": 1623
           }
         }
       ],
@@ -53,7 +53,7 @@
             "last_commit": "2025-03-09T17:40:55Z",
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5407
+            "stars": 5406
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2024-05-31T07:11:11Z",
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2675
+            "stars": 2674
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6345
+            "stars": 6346
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-04-27T04:13:25Z",
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4259
+            "stars": 4260
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2022-09-23T12:06:25Z",
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1524
+            "stars": 1523
           }
         },
         {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:33:35.533Z",
+    "last_updated": "2026-08-16T23:33:16.151Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
     "enhanced_repository": "enhansome/enhansome-ultimate-defi-research-base",
