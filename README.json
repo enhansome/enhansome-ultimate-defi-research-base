@@ -115,7 +115,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6346
+            "stars": 6347
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-04-27T04:13:25Z",
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4260
+            "stars": 4262
           }
         },
         {
@@ -362,7 +362,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T16:21:08Z",
+            "last_commit": "2026-08-17T14:39:19Z",
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 151
@@ -401,7 +401,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-14T17:55:51Z",
+            "last_commit": "2026-08-17T19:08:13Z",
             "owner": "blockscout",
             "repo": "blockscout",
             "stars": 4638
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:33:16.151Z",
+    "last_updated": "2026-08-17T23:35:28.920Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
     "enhanced_repository": "enhansome/enhansome-ultimate-defi-research-base",
