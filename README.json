@@ -53,7 +53,7 @@
             "last_commit": "2025-03-09T17:40:55Z",
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5406
+            "stars": 5405
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-08-12T22:56:04Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6347
+            "stars": 6345
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-04-27T04:13:25Z",
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4262
+            "stars": 4263
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2022-09-23T12:06:25Z",
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1523
+            "stars": 1522
           }
         },
         {
@@ -362,7 +362,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T14:39:19Z",
+            "last_commit": "2026-08-18T17:40:21Z",
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 151
@@ -401,10 +401,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-17T19:08:13Z",
+            "last_commit": "2026-08-18T16:29:56Z",
             "owner": "blockscout",
             "repo": "blockscout",
-            "stars": 4638
+            "stars": 4641
           }
         },
         {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:35:28.920Z",
+    "last_updated": "2026-08-18T23:35:32.632Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
     "enhanced_repository": "enhansome/enhansome-ultimate-defi-research-base",
