@@ -114,7 +114,7 @@
             "archived": false,
             "id": 147583941,
             "language": "Python",
-            "last_commit": "2026-08-12T22:56:04Z",
+            "last_commit": "2026-08-19T22:55:02Z",
             "owner": "crytic",
             "repo": "slither",
             "stars": 6345
@@ -381,7 +381,7 @@
             "archived": false,
             "id": 262634046,
             "language": "Go",
-            "last_commit": "2026-08-19T11:08:43Z",
+            "last_commit": "2026-08-19T15:43:57Z",
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 151
@@ -419,7 +419,7 @@
                 "archived": false,
                 "id": 117294980,
                 "language": "Elixir",
-                "last_commit": "2026-08-19T12:48:19Z",
+                "last_commit": "2026-08-19T18:58:44Z",
                 "owner": "blockscout",
                 "repo": "blockscout",
                 "stars": 4641
@@ -465,7 +465,7 @@
             "last_commit": "2026-06-03T14:21:13Z",
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1924
+            "stars": 1923
           },
           "title": "Moved here: Link"
         }
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:59.766Z",
+    "last_updated": "2026-08-19T23:35:16.576Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_id": 376155268,
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
