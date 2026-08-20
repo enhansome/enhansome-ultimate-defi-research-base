@@ -15,7 +15,7 @@
             "last_commit": "2025-06-19T06:26:28Z",
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1817
+            "stars": 1820
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-19T22:55:02Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6345
+            "stars": 6346
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-02-15T09:18:47Z",
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 630
+            "stars": 631
           }
         },
         {
@@ -381,7 +381,7 @@
             "archived": false,
             "id": 262634046,
             "language": "Go",
-            "last_commit": "2026-08-19T15:43:57Z",
+            "last_commit": "2026-08-20T08:50:15Z",
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 151
@@ -396,7 +396,7 @@
             "archived": false,
             "id": 286317234,
             "language": "Go",
-            "last_commit": "2026-06-04T15:26:36Z",
+            "last_commit": "2026-08-20T15:07:12Z",
             "owner": "attestantio",
             "repo": "dirk",
             "stars": 102
@@ -419,10 +419,10 @@
                 "archived": false,
                 "id": 117294980,
                 "language": "Elixir",
-                "last_commit": "2026-08-19T18:58:44Z",
+                "last_commit": "2026-08-20T18:35:59Z",
                 "owner": "blockscout",
                 "repo": "blockscout",
-                "stars": 4641
+                "stars": 4640
               }
             },
             {
@@ -465,7 +465,7 @@
             "last_commit": "2026-06-03T14:21:13Z",
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1923
+            "stars": 1926
           },
           "title": "Moved here: Link"
         }
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:35:16.576Z",
+    "last_updated": "2026-08-20T23:39:20.505Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_id": 376155268,
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
