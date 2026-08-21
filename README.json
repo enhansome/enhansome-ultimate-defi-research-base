@@ -15,7 +15,7 @@
             "last_commit": "2025-06-19T06:26:28Z",
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1820
+            "stars": 1819
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-20T10:51:41Z",
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1623
+            "stars": 1621
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2025-03-09T17:40:55Z",
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5405
+            "stars": 5403
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-19T22:55:02Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6346
+            "stars": 6347
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-04-27T04:13:25Z",
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4262
+            "stars": 4263
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2023-01-19T05:35:00Z",
             "owner": "enzymefinance",
             "repo": "oyente",
-            "stars": 1339
+            "stars": 1338
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2023-09-04T20:46:29Z",
             "owner": "crytic",
             "repo": "ethersplay",
-            "stars": 858
+            "stars": 856
           }
         },
         {
@@ -381,7 +381,7 @@
             "archived": false,
             "id": 262634046,
             "language": "Go",
-            "last_commit": "2026-08-20T08:50:15Z",
+            "last_commit": "2026-08-21T09:35:22Z",
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 151
@@ -419,10 +419,10 @@
                 "archived": false,
                 "id": 117294980,
                 "language": "Elixir",
-                "last_commit": "2026-08-20T18:35:59Z",
+                "last_commit": "2026-08-21T15:11:01Z",
                 "owner": "blockscout",
                 "repo": "blockscout",
-                "stars": 4640
+                "stars": 4639
               }
             },
             {
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:39:20.505Z",
+    "last_updated": "2026-08-21T23:37:27.261Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_id": 376155268,
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
