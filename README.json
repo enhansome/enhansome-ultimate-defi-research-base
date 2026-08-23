@@ -30,7 +30,7 @@
             "last_commit": "2026-07-20T10:51:41Z",
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1620
+            "stars": 1621
           }
         }
       ],
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-19T22:55:02Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6350
+            "stars": 6349
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-04-27T04:13:25Z",
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4264
+            "stars": 4265
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2022-05-09T03:43:06Z",
             "owner": "Arachnid",
             "repo": "evmdis",
-            "stars": 565
+            "stars": 566
           }
         },
         {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-08-21T15:11:01Z",
                 "owner": "blockscout",
                 "repo": "blockscout",
-                "stars": 4642
+                "stars": 4644
               }
             },
             {
@@ -474,7 +474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:34:24.536Z",
+    "last_updated": "2026-08-23T23:34:56.846Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_id": 376155268,
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
