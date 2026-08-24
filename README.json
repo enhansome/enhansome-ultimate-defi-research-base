@@ -1,6 +1,177 @@
 {
   "items": [
     {
+      "description": "| Special Author's Notes:\n| Follow:\nAlso, here is a study by Arxiv on how to read and parse Arxiv studies.\nAlso x2, here’s a handy checklist for anyone who wants to contribute to Arxiv!\nAlso, x3, here’s a handy a list of 8 tools to help find, read and analyse research papers!\n| Check out:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Security Research Base",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376155268,
+            "language": null,
+            "last_commit": "2026-03-14T19:04:35Z",
+            "owner": "OffcierCia",
+            "repo": "ultimate-defi-research-base",
+            "stars": 2209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFT Research Base",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376155268,
+            "language": null,
+            "last_commit": "2026-03-14T19:04:35Z",
+            "owner": "OffcierCia",
+            "repo": "ultimate-defi-research-base",
+            "stars": 2209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StableCoin Research Base",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376155268,
+            "language": null,
+            "last_commit": "2026-03-14T19:04:35Z",
+            "owner": "OffcierCia",
+            "repo": "ultimate-defi-research-base",
+            "stars": 2209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "General Info",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376155268,
+            "language": null,
+            "last_commit": "2026-03-14T19:04:35Z",
+            "owner": "OffcierCia",
+            "repo": "ultimate-defi-research-base",
+            "stars": 2209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeFi Research Base",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376155268,
+            "language": null,
+            "last_commit": "2026-03-14T19:04:35Z",
+            "owner": "OffcierCia",
+            "repo": "ultimate-defi-research-base",
+            "stars": 2209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transaction Scoring",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376155268,
+            "language": null,
+            "last_commit": "2026-03-14T19:04:35Z",
+            "owner": "OffcierCia",
+            "repo": "ultimate-defi-research-base",
+            "stars": 2209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEV",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376155268,
+            "language": null,
+            "last_commit": "2026-03-14T19:04:35Z",
+            "owner": "OffcierCia",
+            "repo": "ultimate-defi-research-base",
+            "stars": 2209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Academic_Smart_Contract_Papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292767417,
+            "language": null,
+            "last_commit": "2026-08-12T08:26:47Z",
+            "owner": "hzysvilla",
+            "repo": "Academic_Smart_Contract_Papers",
+            "stars": 644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Library of Ethereum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 499590305,
+            "language": null,
+            "last_commit": "2023-12-26T18:22:57Z",
+            "owner": "arpitingle",
+            "repo": "Library-of-Ethereum",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compendium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 186519022,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-29T13:34:51Z",
+            "owner": "sambacha",
+            "repo": "compendium",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blockchain science - rust edition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 580149318,
+            "language": "Solidity",
+            "last_commit": "2025-12-09T15:03:01Z",
+            "owner": "cypherpunk-symposium",
+            "repo": "blockchain-science-rs",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -30,11 +201,32 @@
             "last_commit": "2026-07-20T10:51:41Z",
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1621
+            "stars": 1622
           }
         }
       ],
       "title": "Security & Safety:"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EVO Protocol: a Volumetric time based stabilizing pool to make any asset price-stable",
+          "description": "Author demonstrates a price surcharge system based on calculated a time-dependent average transfer rate that enables any cryptoasset to be price-stable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 297035371,
+            "language": "TeX",
+            "last_commit": "2021-05-17T00:50:28Z",
+            "owner": "sambacha",
+            "repo": "evo-whitepaper",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Stable-Coins:"
     },
     {
       "description": null,
@@ -66,7 +258,7 @@
             "last_commit": "2024-05-31T07:11:11Z",
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2674
+            "stars": 2673
           }
         },
         {
@@ -117,7 +309,7 @@
             "last_commit": "2026-08-19T22:55:02Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6349
+            "stars": 6350
           }
         },
         {
@@ -267,7 +459,7 @@
             "last_commit": "2022-05-19T01:02:10Z",
             "owner": "defi-defense-dao",
             "repo": "defi-risk-tools-list",
-            "stars": 174
+            "stars": 173
           }
         },
         {
@@ -411,49 +603,65 @@
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "Blockscout",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Blockscout",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 117294980,
+                    "language": "Elixir",
+                    "last_commit": "2026-08-24T13:31:20Z",
+                    "owner": "blockscout",
+                    "repo": "blockscout",
+                    "stars": 4646
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Orbit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 140445860,
+                    "language": "Python",
+                    "last_commit": "2022-07-15T09:47:59Z",
+                    "owner": "s0md3v",
+                    "repo": "Orbit",
+                    "stars": 617
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Arronax",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 112691717,
+                    "language": "TypeScript",
+                    "last_commit": "2023-01-07T03:58:26Z",
+                    "owner": "Cryptonomic",
+                    "repo": "Arronax",
+                    "stars": 32
+                  }
+                }
+              ],
               "description": null,
-              "children": [],
+              "node_type": "item",
               "repo_info": {
                 "archived": false,
-                "id": 117294980,
-                "language": "Elixir",
-                "last_commit": "2026-08-21T15:11:01Z",
-                "owner": "blockscout",
-                "repo": "blockscout",
-                "stars": 4644
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Orbit",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 140445860,
-                "language": "Python",
-                "last_commit": "2022-07-15T09:47:59Z",
-                "owner": "s0md3v",
-                "repo": "Orbit",
-                "stars": 617
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Arronax",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 112691717,
-                "language": "TypeScript",
-                "last_commit": "2023-01-07T03:58:26Z",
-                "owner": "Cryptonomic",
-                "repo": "Arronax",
-                "stars": 32
-              }
+                "id": 568727854,
+                "language": null,
+                "last_commit": "2026-06-03T14:21:13Z",
+                "owner": "OffcierCia",
+                "repo": "On-Chain-Investigations-Tools-List",
+                "stars": 1927
+              },
+              "title": "Moved here: Link"
             }
           ],
           "description": null,
@@ -467,14 +675,14 @@
             "repo": "On-Chain-Investigations-Tools-List",
             "stars": 1927
           },
-          "title": "Moved here: Link"
+          "title": "Transaction Visualization, Scoring & Tracking:"
         }
       ],
-      "title": "Transaction Visualization, Scoring & Tracking:"
+      "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:34:56.846Z",
+    "last_updated": "2026-08-24T14:08:59.795Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_id": 376155268,
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
