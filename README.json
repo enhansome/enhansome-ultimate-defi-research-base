@@ -449,7 +449,7 @@
         },
         {
           "node_type": "item",
-          "title": "Source",
+          "title": "defi-defense-dao/defi-risk-tools-list",
           "description": "DeFi Defence DAO collection",
           "children": [],
           "repo_info": {
@@ -613,7 +613,7 @@
                     "archived": false,
                     "id": 117294980,
                     "language": "Elixir",
-                    "last_commit": "2026-08-24T18:15:24Z",
+                    "last_commit": "2026-08-25T01:51:16Z",
                     "owner": "blockscout",
                     "repo": "blockscout",
                     "stars": 4646
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:34:22.340Z",
+    "last_updated": "2026-08-25T05:57:43.086Z",
     "original_repository": "OffcierCia/ultimate-defi-research-base",
     "original_repository_id": 376155268,
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
