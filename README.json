@@ -309,7 +309,7 @@
             "last_commit": "2026-08-26T22:54:54Z",
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6352
+            "stars": 6353
           }
         },
         {
@@ -573,10 +573,10 @@
             "archived": false,
             "id": 262634046,
             "language": "Go",
-            "last_commit": "2026-08-26T18:26:58Z",
+            "last_commit": "2026-08-27T09:31:59Z",
             "owner": "attestantio",
             "repo": "vouch",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-08-20T15:07:12Z",
             "owner": "attestantio",
             "repo": "dirk",
-            "stars": 103
+            "stars": 104
           }
         }
       ],
@@ -613,7 +613,7 @@
                     "archived": false,
                     "id": 117294980,
                     "language": "Elixir",
-                    "last_commit": "2026-08-26T17:38:17Z",
+                    "last_commit": "2026-08-27T11:34:36Z",
                     "owner": "blockscout",
                     "repo": "blockscout",
                     "stars": 4648
@@ -682,9 +682,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:30:50.988Z",
-    "original_repository": "OffcierCia/ultimate-defi-research-base",
-    "original_repository_id": 376155268,
+    "last_updated": "2026-08-27T12:10:06.662Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 376155268,
+      "language": null,
+      "last_commit": "2026-03-14T19:04:35Z",
+      "owner": "OffcierCia",
+      "repo": "ultimate-defi-research-base",
+      "stars": 2211
+    },
     "original_repository_sha": "339c91a83d9f01032124b34f5a5f1fa0ea09aff2",
     "enhanced_repository": "enhansome/enhansome-ultimate-defi-research-base",
     "enhanced_repository_description": null,
