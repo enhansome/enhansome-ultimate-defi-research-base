@@ -8,19 +8,19 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,818 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,820 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
 |        Navigation        | Instant Link                                                                                                                                      |
 | :----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,211 \| 🐛 1 \| 📅 2026-03-14                            |
-|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,211 \| 🐛 1 \| 📅 2026-03-14                      |
-| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,211 \| 🐛 1 \| 📅 2026-03-14                                |
-|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,211 \| 🐛 1 \| 📅 2026-03-14                         |
-|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,211 \| 🐛 1 \| 📅 2026-03-14                                |
-|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,211 \| 🐛 1 \| 📅 2026-03-14 |
-|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,211 \| 🐛 1 \| 📅 2026-03-14             |
+|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                            |
+|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                      |
+| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                                |
+|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                         |
+|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                                |
+|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14 |
+|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14             |
 
 **| Special Author's Notes:**
 
@@ -411,7 +411,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Developer Tools
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,353 | 🐛 473 | 🌐 Python | 📅 2026-08-26 - A Solidity static analysis framework
+* [Slither](https://github.com/crytic/slither) ⭐ 6,354 | 🐛 473 | 🌐 Python | 📅 2026-08-26 - A Solidity static analysis framework
 * [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,265 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,522 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
@@ -472,8 +472,8 @@ __________                 ___________           .__           .____    .__     
 
 ### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,931 | 🐛 5 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,651 | 🐛 159 | 🌐 Elixir | 📅 2026-08-27
-* [Orbit](https://github.com/s0md3v/Orbit) ⭐ 617 | 🐛 9 | 🌐 Python | 📅 2022-07-15
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,655 | 🐛 159 | 🌐 Elixir | 📅 2026-08-28
+* [Orbit](https://github.com/s0md3v/Orbit) ⭐ 618 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
 * [Maltego](http://maltego.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
