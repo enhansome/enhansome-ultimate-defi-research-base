@@ -401,7 +401,7 @@
             "open_issues": 10,
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1819,
+            "stars": 1820,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -422,7 +422,7 @@
             "open_issues": 0,
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1623,
+            "stars": 1624,
             "topics": [
               "ethereum",
               "exploit",
@@ -494,7 +494,7 @@
             "open_issues": 34,
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5401,
+            "stars": 5400,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -616,7 +616,7 @@
             "open_issues": 130,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4266,
+            "stars": 4265,
             "topics": [
               "blockchain",
               "ethereum",
@@ -646,7 +646,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3858,
+            "stars": 3857,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -679,7 +679,7 @@
             "open_issues": 4,
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1522,
+            "stars": 1521,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -726,7 +726,7 @@
             "open_issues": 5,
             "owner": "raineorshine",
             "repo": "solgraph",
-            "stars": 1028,
+            "stars": 1027,
             "topics": [
               "ethereum",
               "solidity"
@@ -750,7 +750,7 @@
             "open_issues": 9,
             "owner": "crytic",
             "repo": "ethersplay",
-            "stars": 856,
+            "stars": 855,
             "topics": [
               "binary-ninja",
               "disassembler",
@@ -776,7 +776,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 631,
+            "stars": 630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -830,7 +830,7 @@
             "open_issues": 1,
             "owner": "cryptofinlabs",
             "repo": "audit-checklist",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "ethereum",
               "security",
@@ -1090,7 +1090,7 @@
                     "open_issues": 158,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4655,
+                    "stars": 4656,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:14:48.616Z",
+    "last_updated": "2026-08-31T01:22:12.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
