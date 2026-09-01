@@ -14,13 +14,13 @@
 
 |        Navigation        | Instant Link                                                                                                                                      |
 | :----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                            |
-|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                      |
-| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                                |
-|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                         |
-|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14                                |
-|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14 |
-|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,212 \| 🐛 1 \| 📅 2026-03-14             |
+|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,213 \| 🐛 1 \| 📅 2026-03-14                            |
+|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,213 \| 🐛 1 \| 📅 2026-03-14                      |
+| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,213 \| 🐛 1 \| 📅 2026-03-14                                |
+|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,213 \| 🐛 1 \| 📅 2026-03-14                         |
+|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,213 \| 🐛 1 \| 📅 2026-03-14                                |
+|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,213 \| 🐛 1 \| 📅 2026-03-14 |
+|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,213 \| 🐛 1 \| 📅 2026-03-14             |
 
 **| Special Author's Notes:**
 
@@ -28,8 +28,8 @@
 
 **| Follow:**
 
-* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 644 | 🐛 0 | 📅 2026-08-12
-* [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 277 | 🐛 2 | 📅 2023-12-26
+* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 644 | 🐛 0 | 📅 2026-08-31
+* [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 278 | 🐛 2 | 📅 2023-12-26
 * [Compendium](https://github.com/sambacha/compendium) ⭐ 216 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-07-29
 * [blockchain science - rust edition](https://github.com/go-outside-labs/blockchain-science-rs) ⚠️ Archived
 * [ethereum-magicians.org](https://ethereum-magicians.org)
@@ -118,7 +118,7 @@ Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse res
 
 ## Security & Safety:
 
-* [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs/blob/main/papers/icse23.pdf) ⭐ 1,820 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - The research indicates that a notable proportion of exploitable bugs in smart contracts are functional bugs, which cannot be detected using simple and general oracles like reentrancy.
+* [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs/blob/main/papers/icse23.pdf) ⭐ 1,819 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - The research indicates that a notable proportion of exploitable bugs in smart contracts are functional bugs, which cannot be detected using simple and general oracles like reentrancy.
 
 * [A chronological and (hopefully) complete list of reentrancy attacks to date.](https://github.com/pcaversaccio/reentrancy-attacks) ⭐ 1,624 | 🐛 0 | 📅 2026-07-20
 
@@ -411,7 +411,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Developer Tools
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,356 | 🐛 473 | 🌐 Python | 📅 2026-08-26 - A Solidity static analysis framework
+* [Slither](https://github.com/crytic/slither) ⭐ 6,357 | 🐛 474 | 🌐 Python | 📅 2026-08-26 - A Solidity static analysis framework
 * [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,265 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,521 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
@@ -419,7 +419,7 @@ __________                 ___________           .__           .____    .__     
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,027 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Visualise Solidity control flow for smart contract security analysis
 * [Ethersplay](https://github.com/crytic/ethersplay) ⚠️ Archived - EVM disassembler
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 630 | 🐛 9 | 🌐 Python | 📅 2024-02-15 - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
-* [Evmdis](https://github.com/Arachnid/evmdis) ⭐ 566 | 🐛 8 | 🌐 Go | 📅 2022-05-09 - Alternative EVM disassembler
+* [Evmdis](https://github.com/Arachnid/evmdis) ⭐ 565 | 🐛 8 | 🌐 Go | 📅 2022-05-09 - Alternative EVM disassembler
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) ⭐ 369 | 🐛 1 | 📅 2023-03-06 - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 * [Source](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) ⭐ 173 | 🐛 6 | 📅 2022-05-19 DeFi Defence DAO collection
 * [Hydra](https://github.com/IC3Hydra/Hydra) ⭐ 74 | 🐛 0 | 🌐 Haskell | 📅 2018-03-02 - Framework for cryptoeconomic contract security, decentralised security bounties
@@ -472,7 +472,7 @@ __________                 ___________           .__           .____    .__     
 
 ### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,933 | 🐛 5 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,656 | 🐛 158 | 🌐 Elixir | 📅 2026-08-29
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,656 | 🐛 164 | 🌐 Elixir | 📅 2026-09-01
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 618 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
