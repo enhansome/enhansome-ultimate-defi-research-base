@@ -590,7 +590,7 @@
             "open_issues": 474,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6357,
+            "stars": 6359,
             "topics": [
               "ethereum",
               "solidity",
@@ -1086,11 +1086,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T00:00:46Z",
-                    "open_issues": 164,
+                    "last_commit": "2026-09-01T15:56:31Z",
+                    "open_issues": 163,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4656,
+                    "stars": 4659,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -1116,7 +1116,7 @@
                     "open_issues": 9,
                     "owner": "s0md3v",
                     "repo": "Orbit",
-                    "stars": 618,
+                    "stars": 619,
                     "topics": [
                       "bitcoin",
                       "blockchain",
@@ -1163,7 +1163,7 @@
                 "open_issues": 5,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1933,
+                "stars": 1935,
                 "topics": [
                   "aml",
                   "awesome",
@@ -1199,7 +1199,7 @@
             "open_issues": 5,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1933,
+            "stars": 1935,
             "topics": [
               "aml",
               "awesome",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:49:18.857Z",
+    "last_updated": "2026-09-02T01:01:00.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
