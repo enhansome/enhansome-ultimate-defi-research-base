@@ -8,7 +8,7 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,824 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,822 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
@@ -28,7 +28,7 @@
 
 **| Follow:**
 
-* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 644 | 🐛 0 | 📅 2026-08-31
+* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 643 | 🐛 0 | 📅 2026-08-31
 * [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 278 | 🐛 2 | 📅 2023-12-26
 * [Compendium](https://github.com/sambacha/compendium) ⭐ 216 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-07-29
 * [blockchain science - rust edition](https://github.com/go-outside-labs/blockchain-science-rs) ⚠️ Archived
@@ -411,14 +411,14 @@ __________                 ___________           .__           .____    .__     
 
 ## Developer Tools
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,359 | 🐛 474 | 🌐 Python | 📅 2026-09-02 - A Solidity static analysis framework
-* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,265 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
+* [Slither](https://github.com/crytic/slither) ⭐ 6,357 | 🐛 474 | 🌐 Python | 📅 2026-09-02 - A Solidity static analysis framework
+* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,266 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,521 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
 * [Oyente](https://github.com/melonproject/oyente) ⚠️ Archived - Alternative static smart contract security analysis
-* [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,027 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Visualise Solidity control flow for smart contract security analysis
+* [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,026 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Visualise Solidity control flow for smart contract security analysis
 * [Ethersplay](https://github.com/crytic/ethersplay) ⚠️ Archived - EVM disassembler
-* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 630 | 🐛 9 | 🌐 Python | 📅 2024-02-15 - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
+* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 629 | 🐛 9 | 🌐 Python | 📅 2024-02-15 - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Evmdis](https://github.com/Arachnid/evmdis) ⭐ 565 | 🐛 8 | 🌐 Go | 📅 2022-05-09 - Alternative EVM disassembler
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) ⭐ 369 | 🐛 1 | 📅 2023-03-06 - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 * [Source](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) ⭐ 173 | 🐛 6 | 📅 2022-05-19 DeFi Defence DAO collection
@@ -468,12 +468,12 @@ __________                 ___________           .__           .____    .__     
 * [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 * [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/)
 
-## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,935 | 🐛 6 | 📅 2026-06-03
+## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,936 | 🐛 6 | 📅 2026-06-03
 
-### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,935 | 🐛 6 | 📅 2026-06-03
+### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,936 | 🐛 6 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,665 | 🐛 165 | 🌐 Elixir | 📅 2026-09-03
-* [Orbit](https://github.com/s0md3v/Orbit) ⭐ 619 | 🐛 9 | 🌐 Python | 📅 2022-07-15
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,666 | 🐛 164 | 🌐 Elixir | 📅 2026-09-03
+* [Orbit](https://github.com/s0md3v/Orbit) ⭐ 618 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
 * [Maltego](http://maltego.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

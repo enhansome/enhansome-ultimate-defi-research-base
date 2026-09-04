@@ -257,7 +257,7 @@
             "open_issues": 0,
             "owner": "hzysvilla",
             "repo": "Academic_Smart_Contract_Papers",
-            "stars": 644,
+            "stars": 643,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -590,7 +590,7 @@
             "open_issues": 474,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6359,
+            "stars": 6357,
             "topics": [
               "ethereum",
               "solidity",
@@ -616,7 +616,7 @@
             "open_issues": 130,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4265,
+            "stars": 4266,
             "topics": [
               "blockchain",
               "ethereum",
@@ -726,7 +726,7 @@
             "open_issues": 5,
             "owner": "raineorshine",
             "repo": "solgraph",
-            "stars": 1027,
+            "stars": 1026,
             "topics": [
               "ethereum",
               "solidity"
@@ -750,7 +750,7 @@
             "open_issues": 9,
             "owner": "crytic",
             "repo": "ethersplay",
-            "stars": 855,
+            "stars": 854,
             "topics": [
               "binary-ninja",
               "disassembler",
@@ -776,7 +776,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 630,
+            "stars": 629,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1086,11 +1086,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-03T00:23:24Z",
-                    "open_issues": 165,
+                    "last_commit": "2026-09-03T14:21:42Z",
+                    "open_issues": 164,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4665,
+                    "stars": 4666,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -1116,7 +1116,7 @@
                     "open_issues": 9,
                     "owner": "s0md3v",
                     "repo": "Orbit",
-                    "stars": 619,
+                    "stars": 618,
                     "topics": [
                       "bitcoin",
                       "blockchain",
@@ -1163,7 +1163,7 @@
                 "open_issues": 6,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1935,
+                "stars": 1936,
                 "topics": [
                   "aml",
                   "awesome",
@@ -1199,7 +1199,7 @@
             "open_issues": 6,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1935,
+            "stars": 1936,
             "topics": [
               "aml",
               "awesome",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:06:35.965Z",
+    "last_updated": "2026-09-04T00:58:15.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
