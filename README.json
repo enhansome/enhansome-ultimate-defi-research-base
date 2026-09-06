@@ -422,7 +422,7 @@
             "open_issues": 0,
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1624,
+            "stars": 1625,
             "topics": [
               "ethereum",
               "exploit",
@@ -515,7 +515,7 @@
             "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2671,
+            "stars": 2670,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -587,10 +587,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-02T22:56:07Z",
-            "open_issues": 474,
+            "open_issues": 475,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6357,
+            "stars": 6356,
             "topics": [
               "ethereum",
               "solidity",
@@ -1086,8 +1086,8 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-04T16:49:05Z",
-                    "open_issues": 162,
+                    "last_commit": "2026-09-05T11:29:34Z",
+                    "open_issues": 163,
                     "owner": "blockscout",
                     "repo": "blockscout",
                     "stars": 4668,
@@ -1163,7 +1163,7 @@
                 "open_issues": 6,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1936,
+                "stars": 1937,
                 "topics": [
                   "aml",
                   "awesome",
@@ -1199,7 +1199,7 @@
             "open_issues": 6,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1936,
+            "stars": 1937,
             "topics": [
               "aml",
               "awesome",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:56:28.561Z",
+    "last_updated": "2026-09-06T00:56:12.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
