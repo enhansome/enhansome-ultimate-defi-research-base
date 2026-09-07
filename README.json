@@ -422,7 +422,7 @@
             "open_issues": 0,
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1625,
+            "stars": 1624,
             "topics": [
               "ethereum",
               "exploit",
@@ -494,7 +494,7 @@
             "open_issues": 34,
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5399,
+            "stars": 5398,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -587,7 +587,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-02T22:56:07Z",
-            "open_issues": 475,
+            "open_issues": 477,
             "owner": "crytic",
             "repo": "slither",
             "stars": 6356,
@@ -616,7 +616,7 @@
             "open_issues": 130,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4267,
+            "stars": 4266,
             "topics": [
               "blockchain",
               "ethereum",
@@ -646,7 +646,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3856,
+            "stars": 3855,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -679,7 +679,7 @@
             "open_issues": 4,
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1521,
+            "stars": 1520,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -750,7 +750,7 @@
             "open_issues": 9,
             "owner": "crytic",
             "repo": "ethersplay",
-            "stars": 854,
+            "stars": 853,
             "topics": [
               "binary-ninja",
               "disassembler",
@@ -830,7 +830,7 @@
             "open_issues": 1,
             "owner": "cryptofinlabs",
             "repo": "audit-checklist",
-            "stars": 369,
+            "stars": 367,
             "topics": [
               "ethereum",
               "security",
@@ -902,7 +902,7 @@
             "open_issues": 1,
             "owner": "nerolation",
             "repo": "ethereum-datafarm",
-            "stars": 67,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -1086,8 +1086,8 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T11:29:34Z",
-                    "open_issues": 163,
+                    "last_commit": "2026-09-06T20:14:17Z",
+                    "open_issues": 164,
                     "owner": "blockscout",
                     "repo": "blockscout",
                     "stars": 4668,
@@ -1163,7 +1163,7 @@
                 "open_issues": 6,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1937,
+                "stars": 1938,
                 "topics": [
                   "aml",
                   "awesome",
@@ -1199,7 +1199,7 @@
             "open_issues": 6,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1937,
+            "stars": 1938,
             "topics": [
               "aml",
               "awesome",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:56:12.829Z",
+    "last_updated": "2026-09-07T01:00:46.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
