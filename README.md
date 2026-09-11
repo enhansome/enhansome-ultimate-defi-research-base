@@ -8,19 +8,19 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,825 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,826 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
 |        Navigation        | Instant Link                                                                                                                                      |
 | :----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,218 \| 🐛 2 \| 📅 2026-03-14                            |
-|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,218 \| 🐛 2 \| 📅 2026-03-14                      |
-| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,218 \| 🐛 2 \| 📅 2026-03-14                                |
-|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,218 \| 🐛 2 \| 📅 2026-03-14                         |
-|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,218 \| 🐛 2 \| 📅 2026-03-14                                |
-|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,218 \| 🐛 2 \| 📅 2026-03-14 |
-|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,218 \| 🐛 2 \| 📅 2026-03-14             |
+|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,224 \| 🐛 1 \| 📅 2026-03-14                            |
+|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,224 \| 🐛 1 \| 📅 2026-03-14                      |
+| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,224 \| 🐛 1 \| 📅 2026-03-14                                |
+|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,224 \| 🐛 1 \| 📅 2026-03-14                         |
+|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,224 \| 🐛 1 \| 📅 2026-03-14                                |
+|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,224 \| 🐛 1 \| 📅 2026-03-14 |
+|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,224 \| 🐛 1 \| 📅 2026-03-14             |
 
 **| Special Author's Notes:**
 
@@ -28,7 +28,7 @@
 
 **| Follow:**
 
-* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 644 | 🐛 0 | 📅 2026-08-31
+* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 645 | 🐛 0 | 📅 2026-09-10
 * [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 278 | 🐛 2 | 📅 2023-12-26
 * [Compendium](https://github.com/sambacha/compendium) ⭐ 217 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-07-29
 * [blockchain science - rust edition](https://github.com/go-outside-labs/blockchain-science-rs) ⚠️ Archived
@@ -118,7 +118,7 @@ Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse res
 
 ## Security & Safety:
 
-* [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs/blob/main/papers/icse23.pdf) ⭐ 1,819 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - The research indicates that a notable proportion of exploitable bugs in smart contracts are functional bugs, which cannot be detected using simple and general oracles like reentrancy.
+* [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs/blob/main/papers/icse23.pdf) ⭐ 1,821 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - The research indicates that a notable proportion of exploitable bugs in smart contracts are functional bugs, which cannot be detected using simple and general oracles like reentrancy.
 
 * [A chronological and (hopefully) complete list of reentrancy attacks to date.](https://github.com/pcaversaccio/reentrancy-attacks) ⭐ 1,624 | 🐛 0 | 📅 2026-07-20
 
@@ -468,11 +468,11 @@ __________                 ___________           .__           .____    .__     
 * [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 * [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/)
 
-## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,942 | 🐛 6 | 📅 2026-06-03
+## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,943 | 🐛 6 | 📅 2026-06-03
 
-### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,942 | 🐛 6 | 📅 2026-06-03
+### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,943 | 🐛 6 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,673 | 🐛 168 | 🌐 Elixir | 📅 2026-09-10
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,676 | 🐛 167 | 🌐 Elixir | 📅 2026-09-10
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 619 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
