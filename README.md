@@ -8,19 +8,19 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,827 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,828 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
 |        Navigation        | Instant Link                                                                                                                                      |
 | :----------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,231 \| 🐛 1 \| 📅 2026-03-14                            |
-|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,231 \| 🐛 1 \| 📅 2026-03-14                      |
-| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,231 \| 🐛 1 \| 📅 2026-03-14                                |
-|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,231 \| 🐛 1 \| 📅 2026-03-14                         |
-|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,231 \| 🐛 1 \| 📅 2026-03-14                                |
-|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,231 \| 🐛 1 \| 📅 2026-03-14 |
-|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,231 \| 🐛 1 \| 📅 2026-03-14             |
+|  Security Research Base  | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#security--safety) ⭐ 2,233 \| 🐛 1 \| 📅 2026-03-14                            |
+|     NFT Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#non-fungible-token-nft) ⭐ 2,233 \| 🐛 1 \| 📅 2026-03-14                      |
+| StableCoin Research Base | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#stable-coins) ⭐ 2,233 \| 🐛 1 \| 📅 2026-03-14                                |
+|       General Info       | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#general-information) ⭐ 2,233 \| 🐛 1 \| 📅 2026-03-14                         |
+|    DeFi Research Base    | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#defi-science) ⭐ 2,233 \| 🐛 1 \| 📅 2026-03-14                                |
+|    Transaction Scoring   | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#transaction-visualization-scoring--tracking) ⭐ 2,233 \| 🐛 1 \| 📅 2026-03-14 |
+|            MEV           | [Explore](https://github.com/OffcierCia/ultimate-defi-research-base#MEV---Maximal-Extractable-Value) ⭐ 2,233 \| 🐛 1 \| 📅 2026-03-14             |
 
 **| Special Author's Notes:**
 
@@ -412,7 +412,7 @@ __________                 ___________           .__           .____    .__     
 ## Developer Tools
 
 * [Slither](https://github.com/crytic/slither) ⭐ 6,361 | 🐛 478 | 🌐 Python | 📅 2026-09-09 - A Solidity static analysis framework
-* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,269 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
+* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,270 | 🐛 130 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,521 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
 * [Oyente](https://github.com/melonproject/oyente) ⚠️ Archived - Alternative static smart contract security analysis
@@ -421,7 +421,7 @@ __________                 ___________           .__           .____    .__     
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 630 | 🐛 9 | 🌐 Python | 📅 2024-02-15 - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Evmdis](https://github.com/Arachnid/evmdis) ⭐ 565 | 🐛 8 | 🌐 Go | 📅 2022-05-09 - Alternative EVM disassembler
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) ⭐ 367 | 🐛 1 | 📅 2023-03-06 - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
-* [Source](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) ⭐ 173 | 🐛 6 | 📅 2022-05-19 DeFi Defence DAO collection
+* [Source](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) ⭐ 172 | 🐛 6 | 📅 2022-05-19 DeFi Defence DAO collection
 * [Hydra](https://github.com/IC3Hydra/Hydra) ⭐ 74 | 🐛 0 | 🌐 Haskell | 📅 2018-03-02 - Framework for cryptoeconomic contract security, decentralised security bounties
 * [Ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2023-02-25 - Easy-to-use console app for parsing historical event data without requiring an archive node, using the Etherscan API.
 * [solc-verify](https://github.com/SRI-CSL/solidity/) ⭐ 53 | 🐛 46 | 🌐 C++ | 📅 2023-09-05 - A modular verifier for Solidity smart contracts
@@ -459,7 +459,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Ethereum 2.0
 
-* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 153 | 🐛 25 | 🌐 Go | 📅 2026-09-12
+* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 153 | 🐛 25 | 🌐 Go | 📅 2026-09-13
 * [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk) ⭐ 104 | 🐛 16 | 🌐 Go | 📅 2026-08-27
 * [Beaconcha](https://beaconcha.in/)
 * [Beaconscan](https://beaconscan.com/)
@@ -468,11 +468,11 @@ __________                 ___________           .__           .____    .__     
 * [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 * [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/)
 
-## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,945 | 🐛 6 | 📅 2026-06-03
+## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,945 | 🐛 7 | 📅 2026-06-03
 
-### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,945 | 🐛 6 | 📅 2026-06-03
+### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,945 | 🐛 7 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,682 | 🐛 170 | 🌐 Elixir | 📅 2026-09-11
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,683 | 🐛 171 | 🌐 Elixir | 📅 2026-09-11
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 619 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
