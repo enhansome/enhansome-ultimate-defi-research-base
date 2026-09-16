@@ -515,7 +515,7 @@
             "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2669,
+            "stars": 2668,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -616,7 +616,7 @@
             "open_issues": 130,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4270,
+            "stars": 4271,
             "topics": [
               "blockchain",
               "ethereum",
@@ -1086,11 +1086,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-14T19:21:22Z",
-                    "open_issues": 173,
+                    "last_commit": "2026-09-15T16:25:23Z",
+                    "open_issues": 164,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4687,
+                    "stars": 4692,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:27:17.815Z",
+    "last_updated": "2026-09-16T01:24:09.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
