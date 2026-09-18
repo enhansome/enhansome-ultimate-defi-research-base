@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "awesome",
               "awesome-list",
@@ -53,7 +53,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "awesome",
               "awesome-list",
@@ -87,7 +87,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "awesome",
               "awesome-list",
@@ -121,7 +121,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "awesome",
               "awesome-list",
@@ -155,7 +155,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "awesome",
               "awesome-list",
@@ -189,7 +189,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "awesome",
               "awesome-list",
@@ -223,7 +223,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "awesome",
               "awesome-list",
@@ -314,7 +314,7 @@
             "open_issues": 1,
             "owner": "sambacha",
             "repo": "compendium",
-            "stars": 217,
+            "stars": 218,
             "topics": [
               "bitcoin",
               "commodities",
@@ -422,7 +422,7 @@
             "open_issues": 0,
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1625,
+            "stars": 1624,
             "topics": [
               "ethereum",
               "exploit",
@@ -590,7 +590,7 @@
             "open_issues": 478,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6362,
+            "stars": 6363,
             "topics": [
               "ethereum",
               "solidity",
@@ -616,7 +616,7 @@
             "open_issues": 130,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4270,
+            "stars": 4271,
             "topics": [
               "blockchain",
               "ethereum",
@@ -726,7 +726,7 @@
             "open_issues": 5,
             "owner": "raineorshine",
             "repo": "solgraph",
-            "stars": 1026,
+            "stars": 1025,
             "topics": [
               "ethereum",
               "solidity"
@@ -1034,8 +1034,8 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T14:30:47Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-17T22:39:41Z",
+            "open_issues": 28,
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 153,
@@ -1086,11 +1086,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-16T16:04:23Z",
+                    "last_commit": "2026-09-17T15:07:25Z",
                     "open_issues": 163,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4692,
+                    "stars": 4693,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:24:31.395Z",
+    "last_updated": "2026-09-18T01:16:46.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
@@ -1238,7 +1238,7 @@
       "open_issues": 2,
       "owner": "OffcierCia",
       "repo": "ultimate-defi-research-base",
-      "stars": 2235,
+      "stars": 2236,
       "topics": [
         "awesome",
         "awesome-list",
