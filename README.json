@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -53,7 +53,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -87,7 +87,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -121,7 +121,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -155,7 +155,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -189,7 +189,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -223,7 +223,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2236,
+            "stars": 2237,
             "topics": [
               "awesome",
               "awesome-list",
@@ -401,7 +401,7 @@
             "open_issues": 10,
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1823,
+            "stars": 1822,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -422,7 +422,7 @@
             "open_issues": 0,
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1624,
+            "stars": 1625,
             "topics": [
               "ethereum",
               "exploit",
@@ -515,7 +515,7 @@
             "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2668,
+            "stars": 2667,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -587,10 +587,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-09T22:56:10Z",
-            "open_issues": 478,
+            "open_issues": 477,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6364,
+            "stars": 6366,
             "topics": [
               "ethereum",
               "solidity",
@@ -616,7 +616,7 @@
             "open_issues": 130,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4271,
+            "stars": 4272,
             "topics": [
               "blockchain",
               "ethereum",
@@ -1086,11 +1086,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-18T12:09:52Z",
-                    "open_issues": 165,
+                    "last_commit": "2026-09-21T18:15:21Z",
+                    "open_issues": 168,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4701,
+                    "stars": 4705,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -1160,10 +1160,10 @@
                 "language": null,
                 "license": "Unlicense",
                 "last_commit": "2026-06-03T14:21:13Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1947,
+                "stars": 1949,
                 "topics": [
                   "aml",
                   "awesome",
@@ -1196,10 +1196,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1947,
+            "stars": 1949,
             "topics": [
               "aml",
               "awesome",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T01:03:56.860Z",
+    "last_updated": "2026-09-22T01:35:52.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
@@ -1238,7 +1238,7 @@
       "open_issues": 2,
       "owner": "OffcierCia",
       "repo": "ultimate-defi-research-base",
-      "stars": 2236,
+      "stars": 2237,
       "topics": [
         "awesome",
         "awesome-list",
