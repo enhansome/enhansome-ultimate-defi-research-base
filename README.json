@@ -590,7 +590,7 @@
             "open_issues": 480,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6374,
+            "stars": 6373,
             "topics": [
               "ethereum",
               "solidity",
@@ -616,7 +616,7 @@
             "open_issues": 130,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4276,
+            "stars": 4277,
             "topics": [
               "blockchain",
               "ethereum",
@@ -750,7 +750,7 @@
             "open_issues": 9,
             "owner": "crytic",
             "repo": "ethersplay",
-            "stars": 855,
+            "stars": 854,
             "topics": [
               "binary-ninja",
               "disassembler",
@@ -776,7 +776,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1034,8 +1034,8 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T17:56:49Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-30T20:53:00Z",
+            "open_issues": 23,
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 153,
@@ -1086,8 +1086,8 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-29T23:03:15Z",
-                    "open_issues": 166,
+                    "last_commit": "2026-09-30T18:31:51Z",
+                    "open_issues": 170,
                     "owner": "blockscout",
                     "repo": "blockscout",
                     "stars": 4720,
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:06:30.522Z",
+    "last_updated": "2026-10-01T02:08:33.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
