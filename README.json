@@ -5,246 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Security Research Base",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 376155268,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-03-14T19:04:35Z",
-            "open_issues": 2,
-            "owner": "OffcierCia",
-            "repo": "ultimate-defi-research-base",
-            "stars": 2239,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bitcoin",
-              "blockchain",
-              "blockchain-technology",
-              "cryptocurrency",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "research",
-              "smart-contracts"
-            ]
-          },
-          "first_seen": "2026-08-28T06:55:43.869Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NFT Research Base",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 376155268,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-03-14T19:04:35Z",
-            "open_issues": 2,
-            "owner": "OffcierCia",
-            "repo": "ultimate-defi-research-base",
-            "stars": 2239,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bitcoin",
-              "blockchain",
-              "blockchain-technology",
-              "cryptocurrency",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "research",
-              "smart-contracts"
-            ]
-          },
-          "first_seen": "2026-08-28T06:55:43.869Z"
-        },
-        {
-          "node_type": "item",
-          "title": "StableCoin Research Base",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 376155268,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-03-14T19:04:35Z",
-            "open_issues": 2,
-            "owner": "OffcierCia",
-            "repo": "ultimate-defi-research-base",
-            "stars": 2239,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bitcoin",
-              "blockchain",
-              "blockchain-technology",
-              "cryptocurrency",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "research",
-              "smart-contracts"
-            ]
-          },
-          "first_seen": "2026-08-28T06:55:43.869Z"
-        },
-        {
-          "node_type": "item",
-          "title": "General Info",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 376155268,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-03-14T19:04:35Z",
-            "open_issues": 2,
-            "owner": "OffcierCia",
-            "repo": "ultimate-defi-research-base",
-            "stars": 2239,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bitcoin",
-              "blockchain",
-              "blockchain-technology",
-              "cryptocurrency",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "research",
-              "smart-contracts"
-            ]
-          },
-          "first_seen": "2026-08-28T06:55:43.869Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DeFi Research Base",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 376155268,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-03-14T19:04:35Z",
-            "open_issues": 2,
-            "owner": "OffcierCia",
-            "repo": "ultimate-defi-research-base",
-            "stars": 2239,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bitcoin",
-              "blockchain",
-              "blockchain-technology",
-              "cryptocurrency",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "research",
-              "smart-contracts"
-            ]
-          },
-          "first_seen": "2026-08-28T06:55:43.869Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Transaction Scoring",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 376155268,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-03-14T19:04:35Z",
-            "open_issues": 2,
-            "owner": "OffcierCia",
-            "repo": "ultimate-defi-research-base",
-            "stars": 2239,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bitcoin",
-              "blockchain",
-              "blockchain-technology",
-              "cryptocurrency",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "research",
-              "smart-contracts"
-            ]
-          },
-          "first_seen": "2026-08-28T06:55:43.869Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MEV",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 376155268,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-03-14T19:04:35Z",
-            "open_issues": 2,
-            "owner": "OffcierCia",
-            "repo": "ultimate-defi-research-base",
-            "stars": 2239,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "bitcoin",
-              "blockchain",
-              "blockchain-technology",
-              "cryptocurrency",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "research",
-              "smart-contracts"
-            ]
-          },
-          "first_seen": "2026-08-28T06:55:43.869Z"
-        },
-        {
-          "node_type": "item",
           "title": "Academic_Smart_Contract_Papers",
-          "description": null,
+          "description": "hzysvilla/Academic_Smart_Contract_Papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -265,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Library of Ethereum",
-          "description": null,
+          "description": "arpitingle/Library-of-Ethereum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,7 +63,7 @@
         {
           "node_type": "item",
           "title": "Compendium",
-          "description": null,
+          "description": "sambacha/compendium",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -343,7 +105,7 @@
         {
           "node_type": "item",
           "title": "blockchain science - rust edition",
-          "description": null,
+          "description": "cypherpunk-symposium/blockchain-science-rs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -409,7 +171,7 @@
         {
           "node_type": "item",
           "title": "A chronological and (hopefully) complete list of reentrancy attacks to date.",
-          "description": null,
+          "description": "pcaversaccio/reentrancy-attacks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -481,7 +243,7 @@
         {
           "node_type": "item",
           "title": "ConsenSys",
-          "description": null,
+          "description": "Consensys/ethereum-developer-tools-list",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -502,7 +264,7 @@
         {
           "node_type": "item",
           "title": "Blockchain Learning Path",
-          "description": null,
+          "description": "protofire/blockchain-learning-path",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -523,7 +285,7 @@
         {
           "node_type": "item",
           "title": "Slitherin: Slither Detectors by Pessimistic.io",
-          "description": null,
+          "description": "pessimistic-io/slitherin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -550,7 +312,7 @@
         {
           "node_type": "item",
           "title": "Eth Dapp Developer Roadmap",
-          "description": null,
+          "description": "thecryptoshed/eth-dapp-developer-roadmap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -967,7 +729,7 @@
         {
           "node_type": "item",
           "title": "Slitherin: Slither Detectors by Pessimistic.io",
-          "description": null,
+          "description": "pessimistic-io/slitherin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -994,7 +756,7 @@
         {
           "node_type": "item",
           "title": "ERC20 Meta Token Wrapper",
-          "description": null,
+          "description": "0xsequence/erc20-meta-token",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1025,7 +787,7 @@
         {
           "node_type": "item",
           "title": "Ethereum 2.0 Multi-node Validator Client",
-          "description": null,
+          "description": "attestantio/vouch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1046,7 +808,7 @@
         {
           "node_type": "item",
           "title": "Ethereum 2.0 Distributed Remote Key Manager",
-          "description": null,
+          "description": "attestantio/dirk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1077,7 +839,7 @@
                 {
                   "node_type": "item",
                   "title": "Blockscout",
-                  "description": null,
+                  "description": "blockscout/blockscout",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1103,7 +865,7 @@
                 {
                   "node_type": "item",
                   "title": "Orbit",
-                  "description": null,
+                  "description": "s0md3v/Orbit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1128,7 +890,7 @@
                 {
                   "node_type": "item",
                   "title": "Arronax",
-                  "description": null,
+                  "description": "Cryptonomic/Arronax",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1163,7 +925,7 @@
                 "open_issues": 11,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1954,
+                "stars": 1955,
                 "topics": [
                   "aml",
                   "awesome",
@@ -1199,7 +961,7 @@
             "open_issues": 11,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1954,
+            "stars": 1955,
             "topics": [
               "aml",
               "awesome",
@@ -1226,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:56:17.975Z",
+    "last_updated": "2026-10-03T05:14:17.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
