@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2240,
+            "stars": 2239,
             "topics": [
               "awesome",
               "awesome-list",
@@ -53,7 +53,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2240,
+            "stars": 2239,
             "topics": [
               "awesome",
               "awesome-list",
@@ -87,7 +87,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2240,
+            "stars": 2239,
             "topics": [
               "awesome",
               "awesome-list",
@@ -121,7 +121,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2240,
+            "stars": 2239,
             "topics": [
               "awesome",
               "awesome-list",
@@ -155,7 +155,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2240,
+            "stars": 2239,
             "topics": [
               "awesome",
               "awesome-list",
@@ -189,7 +189,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2240,
+            "stars": 2239,
             "topics": [
               "awesome",
               "awesome-list",
@@ -223,7 +223,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2240,
+            "stars": 2239,
             "topics": [
               "awesome",
               "awesome-list",
@@ -356,7 +356,7 @@
             "open_issues": 0,
             "owner": "cypherpunk-symposium",
             "repo": "blockchain-science-rs",
-            "stars": 73,
+            "stars": 72,
             "topics": [
               "arbitrage-bot",
               "boilerplate",
@@ -616,7 +616,7 @@
             "open_issues": 130,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4277,
+            "stars": 4276,
             "topics": [
               "blockchain",
               "ethereum",
@@ -1034,7 +1034,7 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T12:43:51Z",
+            "last_commit": "2026-10-02T13:17:14Z",
             "open_issues": 16,
             "owner": "attestantio",
             "repo": "vouch",
@@ -1086,11 +1086,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-01T15:56:07Z",
-                    "open_issues": 167,
+                    "last_commit": "2026-10-02T12:55:28Z",
+                    "open_issues": 165,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4721,
+                    "stars": 4723,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:14:37.492Z",
+    "last_updated": "2026-10-03T01:56:17.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
@@ -1238,7 +1238,7 @@
       "open_issues": 2,
       "owner": "OffcierCia",
       "repo": "ultimate-defi-research-base",
-      "stars": 2240,
+      "stars": 2239,
       "topics": [
         "awesome",
         "awesome-list",
