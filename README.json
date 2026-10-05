@@ -349,7 +349,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-23T22:54:56Z",
-            "open_issues": 480,
+            "open_issues": 479,
             "owner": "crytic",
             "repo": "slither",
             "stars": 6375,
@@ -796,8 +796,8 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:17:14Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-04T18:33:22Z",
+            "open_issues": 18,
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 153,
@@ -852,7 +852,7 @@
                     "open_issues": 168,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4725,
+                    "stars": 4728,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -925,7 +925,7 @@
                 "open_issues": 11,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1955,
+                "stars": 1957,
                 "topics": [
                   "aml",
                   "awesome",
@@ -961,7 +961,7 @@
             "open_issues": 11,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1955,
+            "stars": 1957,
             "topics": [
               "aml",
               "awesome",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:37:20.605Z",
+    "last_updated": "2026-10-05T01:59:34.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
@@ -1000,7 +1000,7 @@
       "open_issues": 2,
       "owner": "OffcierCia",
       "repo": "ultimate-defi-research-base",
-      "stars": 2239,
+      "stars": 2240,
       "topics": [
         "awesome",
         "awesome-list",
