@@ -8,7 +8,7 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,845 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,846 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
@@ -28,7 +28,7 @@
 
 **| Follow:**
 
-* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 646 | 🐛 0 | 📅 2026-09-10
+* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 645 | 🐛 0 | 📅 2026-09-10
 * [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 277 | 🐛 2 | 📅 2023-12-26
 * [Compendium](https://github.com/sambacha/compendium) ⭐ 218 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-07-29
 * [blockchain science - rust edition](https://github.com/go-outside-labs/blockchain-science-rs) ⚠️ Archived
@@ -472,7 +472,7 @@ __________                 ___________           .__           .____    .__     
 
 ### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,957 | 🐛 12 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,728 | 🐛 168 | 🌐 Elixir | 📅 2026-10-05
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,728 | 🐛 168 | 🌐 Elixir | 📅 2026-10-06
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 622 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
