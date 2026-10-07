@@ -8,7 +8,7 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,846 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,845 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-16 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
@@ -29,7 +29,7 @@
 **| Follow:**
 
 * [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 645 | 🐛 0 | 📅 2026-09-10
-* [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 277 | 🐛 2 | 📅 2023-12-26
+* [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 277 | 🐛 3 | 📅 2023-12-26
 * [Compendium](https://github.com/sambacha/compendium) ⭐ 218 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-07-29
 * [blockchain science - rust edition](https://github.com/go-outside-labs/blockchain-science-rs) ⚠️ Archived
 * [ethereum-magicians.org](https://ethereum-magicians.org)
@@ -459,7 +459,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Ethereum 2.0
 
-* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 153 | 🐛 17 | 🌐 Go | 📅 2026-10-05
+* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 153 | 🐛 17 | 🌐 Go | 📅 2026-10-06
 * [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk) ⭐ 104 | 🐛 16 | 🌐 Go | 📅 2026-08-27
 * [Beaconcha](https://beaconcha.in/)
 * [Beaconscan](https://beaconscan.com/)
@@ -472,7 +472,7 @@ __________                 ___________           .__           .____    .__     
 
 ### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,957 | 🐛 12 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,728 | 🐛 168 | 🌐 Elixir | 📅 2026-10-06
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,728 | 🐛 170 | 🌐 Elixir | 📅 2026-10-06
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 622 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
