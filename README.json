@@ -163,7 +163,7 @@
             "open_issues": 10,
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1822,
+            "stars": 1823,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -349,10 +349,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-06T01:32:51Z",
-            "open_issues": 480,
+            "open_issues": 481,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6375,
+            "stars": 6374,
             "topics": [
               "ethereum",
               "solidity",
@@ -848,11 +848,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T14:52:34Z",
-                    "open_issues": 170,
+                    "last_commit": "2026-10-07T17:05:00Z",
+                    "open_issues": 168,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4728,
+                    "stars": 4731,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -925,7 +925,7 @@
                 "open_issues": 12,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1957,
+                "stars": 1960,
                 "topics": [
                   "aml",
                   "awesome",
@@ -961,7 +961,7 @@
             "open_issues": 12,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1957,
+            "stars": 1960,
             "topics": [
               "aml",
               "awesome",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:22:24.751Z",
+    "last_updated": "2026-10-08T02:41:38.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
@@ -1000,7 +1000,7 @@
       "open_issues": 2,
       "owner": "OffcierCia",
       "repo": "ultimate-defi-research-base",
-      "stars": 2237,
+      "stars": 2238,
       "topics": [
         "awesome",
         "awesome-list",
