@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "hzysvilla",
             "repo": "Academic_Smart_Contract_Papers",
-            "stars": 645,
+            "stars": 644,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -256,7 +256,7 @@
             "open_issues": 37,
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5398,
+            "stars": 5397,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -277,7 +277,7 @@
             "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2668,
+            "stars": 2667,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -349,10 +349,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-06T01:32:51Z",
-            "open_issues": 483,
+            "open_issues": 485,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6373,
+            "stars": 6375,
             "topics": [
               "ethereum",
               "solidity",
@@ -378,7 +378,7 @@
             "open_issues": 129,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4272,
+            "stars": 4271,
             "topics": [
               "blockchain",
               "ethereum",
@@ -408,7 +408,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3854,
+            "stars": 3855,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -796,8 +796,8 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T10:55:32Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-12T07:07:48Z",
+            "open_issues": 20,
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 153,
@@ -848,11 +848,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-09T13:50:27Z",
+                    "last_commit": "2026-10-12T15:41:13Z",
                     "open_issues": 168,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4741,
+                    "stars": 4739,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:23:02.820Z",
+    "last_updated": "2026-10-13T03:32:45.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
@@ -997,7 +997,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-03-14T19:04:35Z",
-      "open_issues": 2,
+      "open_issues": 0,
       "owner": "OffcierCia",
       "repo": "ultimate-defi-research-base",
       "stars": 2239,
