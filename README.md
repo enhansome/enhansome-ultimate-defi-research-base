@@ -8,7 +8,7 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,857 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-12 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 33 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,858 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-12 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
@@ -402,7 +402,7 @@ __________                 ___________           .__           .____    .__     
 ## Favourites:
 
 * [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list) ⚠️ Archived
-* [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) ⭐ 2,667 | 🐛 5 | 📅 2024-05-31
+* [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) ⭐ 2,666 | 🐛 5 | 📅 2024-05-31
 * [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) ⭐ 377 | 🐛 6 | 🌐 Python | 📅 2024-06-25
 * [Eth Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap) ⭐ 146 | 🐛 0 | 📅 2019-04-25
 * [Zhihu Research Base](https://zhuanlan.zhihu.com/p/265374061)
@@ -411,7 +411,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Developer Tools
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,375 | 🐛 485 | 🌐 Python | 📅 2026-10-06 - A Solidity static analysis framework
+* [Slither](https://github.com/crytic/slither) ⭐ 6,377 | 🐛 485 | 🌐 Python | 📅 2026-10-06 - A Solidity static analysis framework
 * [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,271 | 🐛 129 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,525 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
@@ -459,7 +459,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Ethereum 2.0
 
-* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 153 | 🐛 20 | 🌐 Go | 📅 2026-10-12
+* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 153 | 🐛 21 | 🌐 Go | 📅 2026-10-12
 * [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk) ⭐ 104 | 🐛 16 | 🌐 Go | 📅 2026-08-27
 * [Beaconcha](https://beaconcha.in/)
 * [Beaconscan](https://beaconscan.com/)
@@ -468,11 +468,11 @@ __________                 ___________           .__           .____    .__     
 * [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
 * [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/)
 
-## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,965 | 🐛 13 | 📅 2026-06-03
+## [Transaction Visualization, Scoring & Tracking:](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,967 | 🐛 14 | 📅 2026-06-03
 
-### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,965 | 🐛 13 | 📅 2026-06-03
+### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,967 | 🐛 14 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,739 | 🐛 168 | 🌐 Elixir | 📅 2026-10-12
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,741 | 🐛 170 | 🌐 Elixir | 📅 2026-10-13
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 622 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
