@@ -163,7 +163,7 @@
             "open_issues": 10,
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1825,
+            "stars": 1826,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -349,7 +349,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-14T22:56:34Z",
-            "open_issues": 487,
+            "open_issues": 488,
             "owner": "crytic",
             "repo": "slither",
             "stars": 6383,
@@ -848,8 +848,8 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-16T12:51:25Z",
-                    "open_issues": 167,
+                    "last_commit": "2026-10-19T19:44:24Z",
+                    "open_issues": 173,
                     "owner": "blockscout",
                     "repo": "blockscout",
                     "stars": 4749,
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:15:01.562Z",
+    "last_updated": "2026-10-20T01:48:56.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
