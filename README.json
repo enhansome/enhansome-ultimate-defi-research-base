@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "hzysvilla",
             "repo": "Academic_Smart_Contract_Papers",
-            "stars": 643,
+            "stars": 644,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -256,7 +256,7 @@
             "open_issues": 37,
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5394,
+            "stars": 5395,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -277,7 +277,7 @@
             "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2666,
+            "stars": 2667,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -349,10 +349,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-23T00:17:27Z",
-            "open_issues": 498,
+            "open_issues": 499,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6387,
+            "stars": 6388,
             "topics": [
               "ethereum",
               "solidity",
@@ -849,10 +849,10 @@
                     "language": "Elixir",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-22T21:40:26Z",
-                    "open_issues": 167,
+                    "open_issues": 168,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4759,
+                    "stars": 4764,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:08:57.628Z",
+    "last_updated": "2026-10-26T01:08:23.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
