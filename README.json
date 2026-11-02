@@ -352,7 +352,7 @@
             "open_issues": 501,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6398,
+            "stars": 6400,
             "topics": [
               "ethereum",
               "solidity",
@@ -408,7 +408,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3856,
+            "stars": 3855,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -852,7 +852,7 @@
                     "open_issues": 174,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4773,
+                    "stars": 4772,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -925,7 +925,7 @@
                 "open_issues": 19,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1980,
+                "stars": 1983,
                 "topics": [
                   "aml",
                   "awesome",
@@ -961,7 +961,7 @@
             "open_issues": 19,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1980,
+            "stars": 1983,
             "topics": [
               "aml",
               "awesome",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:12:58.812Z",
+    "last_updated": "2026-11-02T02:29:05.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
