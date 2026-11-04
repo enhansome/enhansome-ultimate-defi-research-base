@@ -352,7 +352,7 @@
             "open_issues": 501,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6400,
+            "stars": 6401,
             "topics": [
               "ethereum",
               "solidity",
@@ -614,7 +614,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2022-05-19T01:02:10Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "defi-defense-dao",
             "repo": "defi-risk-tools-list",
             "stars": 172,
@@ -800,7 +800,7 @@
             "open_issues": 25,
             "owner": "attestantio",
             "repo": "vouch",
-            "stars": 155,
+            "stars": 154,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -848,8 +848,8 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T20:53:59Z",
-                    "open_issues": 179,
+                    "last_commit": "2026-11-03T15:55:23Z",
+                    "open_issues": 166,
                     "owner": "blockscout",
                     "repo": "blockscout",
                     "stars": 4775,
@@ -922,7 +922,7 @@
                 "language": null,
                 "license": "Unlicense",
                 "last_commit": "2026-06-03T14:21:13Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
                 "stars": 1985,
@@ -958,7 +958,7 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
             "stars": 1985,
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:55:15.052Z",
+    "last_updated": "2026-11-04T03:00:00.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
@@ -1000,7 +1000,7 @@
       "open_issues": 2,
       "owner": "OffcierCia",
       "repo": "ultimate-defi-research-base",
-      "stars": 2244,
+      "stars": 2245,
       "topics": [
         "awesome",
         "awesome-list",
