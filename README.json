@@ -277,7 +277,7 @@
             "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2666,
+            "stars": 2665,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -349,10 +349,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-04T22:55:42Z",
-            "open_issues": 504,
+            "open_issues": 514,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6410,
+            "stars": 6411,
             "topics": [
               "ethereum",
               "solidity",
@@ -408,7 +408,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3855,
+            "stars": 3856,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -441,7 +441,7 @@
             "open_issues": 4,
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1526,
+            "stars": 1527,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -796,8 +796,8 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T15:38:48Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-06T14:09:31Z",
+            "open_issues": 27,
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 154,
@@ -848,11 +848,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-05T18:59:04Z",
-                    "open_issues": 156,
+                    "last_commit": "2026-11-06T16:27:19Z",
+                    "open_issues": 155,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4774,
+                    "stars": 4776,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -878,7 +878,7 @@
                     "open_issues": 9,
                     "owner": "s0md3v",
                     "repo": "Orbit",
-                    "stars": 625,
+                    "stars": 626,
                     "topics": [
                       "bitcoin",
                       "blockchain",
@@ -922,7 +922,7 @@
                 "language": null,
                 "license": "Unlicense",
                 "last_commit": "2026-06-03T14:21:13Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
                 "stars": 1986,
@@ -958,7 +958,7 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
             "stars": 1986,
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:25:39.541Z",
+    "last_updated": "2026-11-07T02:46:59.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
