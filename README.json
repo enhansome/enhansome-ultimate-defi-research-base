@@ -349,7 +349,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-04T22:55:42Z",
-            "open_issues": 515,
+            "open_issues": 518,
             "owner": "crytic",
             "repo": "slither",
             "stars": 6411,
@@ -592,7 +592,7 @@
             "open_issues": 1,
             "owner": "cryptofinlabs",
             "repo": "audit-checklist",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "ethereum",
               "security",
@@ -796,7 +796,7 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T15:34:18Z",
+            "last_commit": "2026-11-08T14:50:37Z",
             "open_issues": 27,
             "owner": "attestantio",
             "repo": "vouch",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:27:47.993Z",
+    "last_updated": "2026-11-09T02:38:53.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
