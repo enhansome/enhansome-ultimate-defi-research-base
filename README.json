@@ -256,7 +256,7 @@
             "open_issues": 37,
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5396,
+            "stars": 5397,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -352,7 +352,7 @@
             "open_issues": 518,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6411,
+            "stars": 6412,
             "topics": [
               "ethereum",
               "solidity",
@@ -848,8 +848,8 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-06T16:27:19Z",
-                    "open_issues": 155,
+                    "last_commit": "2026-11-09T18:03:32Z",
+                    "open_issues": 154,
                     "owner": "blockscout",
                     "repo": "blockscout",
                     "stars": 4777,
@@ -925,7 +925,7 @@
                 "open_issues": 22,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1987,
+                "stars": 1988,
                 "topics": [
                   "aml",
                   "awesome",
@@ -961,7 +961,7 @@
             "open_issues": 22,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1987,
+            "stars": 1988,
             "topics": [
               "aml",
               "awesome",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:38:53.082Z",
+    "last_updated": "2026-11-10T04:37:01.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
@@ -1000,7 +1000,7 @@
       "open_issues": 3,
       "owner": "OffcierCia",
       "repo": "ultimate-defi-research-base",
-      "stars": 2247,
+      "stars": 2245,
       "topics": [
         "awesome",
         "awesome-list",
