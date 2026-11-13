@@ -8,7 +8,7 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 35 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,897 | 🐛 12 | 🌐 Python | 📅 2026-11-03 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 35 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,898 | 🐛 13 | 🌐 Python | 📅 2026-11-03 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
@@ -459,8 +459,8 @@ __________                 ___________           .__           .____    .__     
 
 ## Ethereum 2.0
 
-* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 154 | 🐛 27 | 🌐 Go | 📅 2026-11-08
-* [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk) ⭐ 104 | 🐛 16 | 🌐 Go | 📅 2026-10-28
+* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 154 | 🐛 27 | 🌐 Go | 📅 2026-11-12
+* [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk) ⭐ 105 | 🐛 16 | 🌐 Go | 📅 2026-10-28
 * [Beaconcha](https://beaconcha.in/)
 * [Beaconscan](https://beaconscan.com/)
 * [Ethereum 2.0 Stats](https://eth2stats.io/)
@@ -472,7 +472,7 @@ __________                 ___________           .__           .____    .__     
 
 ### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,988 | 🐛 23 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,778 | 🐛 162 | 🌐 Elixir | 📅 2026-11-11
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,781 | 🐛 159 | 🌐 Elixir | 📅 2026-11-13
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 628 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

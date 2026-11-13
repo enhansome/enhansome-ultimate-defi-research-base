@@ -256,7 +256,7 @@
             "open_issues": 37,
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5396,
+            "stars": 5397,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -796,7 +796,7 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T14:50:37Z",
+            "last_commit": "2026-11-12T15:01:45Z",
             "open_issues": 27,
             "owner": "attestantio",
             "repo": "vouch",
@@ -821,7 +821,7 @@
             "open_issues": 16,
             "owner": "attestantio",
             "repo": "dirk",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -848,11 +848,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-11T21:05:36Z",
-                    "open_issues": 162,
+                    "last_commit": "2026-11-13T01:06:09Z",
+                    "open_issues": 159,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4778,
+                    "stars": 4781,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T03:48:15.740Z",
+    "last_updated": "2026-11-13T03:24:35.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
