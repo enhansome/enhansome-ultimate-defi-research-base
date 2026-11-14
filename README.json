@@ -352,7 +352,7 @@
             "open_issues": 521,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6416,
+            "stars": 6418,
             "topics": [
               "ethereum",
               "solidity",
@@ -796,7 +796,7 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T15:01:45Z",
+            "last_commit": "2026-11-14T03:11:08Z",
             "open_issues": 27,
             "owner": "attestantio",
             "repo": "vouch",
@@ -848,8 +848,8 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-13T01:06:09Z",
-                    "open_issues": 159,
+                    "last_commit": "2026-11-13T22:51:14Z",
+                    "open_issues": 158,
                     "owner": "blockscout",
                     "repo": "blockscout",
                     "stars": 4781,
@@ -925,7 +925,7 @@
                 "open_issues": 23,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1988,
+                "stars": 1989,
                 "topics": [
                   "aml",
                   "awesome",
@@ -961,7 +961,7 @@
             "open_issues": 23,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1988,
+            "stars": 1989,
             "topics": [
               "aml",
               "awesome",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:24:35.673Z",
+    "last_updated": "2026-11-14T03:13:02.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
@@ -1000,7 +1000,7 @@
       "open_issues": 3,
       "owner": "OffcierCia",
       "repo": "ultimate-defi-research-base",
-      "stars": 2245,
+      "stars": 2244,
       "topics": [
         "awesome",
         "awesome-list",
