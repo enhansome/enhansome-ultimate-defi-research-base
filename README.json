@@ -256,7 +256,7 @@
             "open_issues": 37,
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5397,
+            "stars": 5396,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -277,7 +277,7 @@
             "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2663,
+            "stars": 2664,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -352,7 +352,7 @@
             "open_issues": 521,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6418,
+            "stars": 6419,
             "topics": [
               "ethereum",
               "solidity",
@@ -378,7 +378,7 @@
             "open_issues": 132,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4279,
+            "stars": 4277,
             "topics": [
               "blockchain",
               "ethereum",
@@ -408,7 +408,7 @@
             "open_issues": 261,
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3856,
+            "stars": 3857,
             "topics": [
               "binary-analysis",
               "blockchain",
@@ -512,7 +512,7 @@
             "open_issues": 9,
             "owner": "crytic",
             "repo": "ethersplay",
-            "stars": 853,
+            "stars": 854,
             "topics": [
               "binary-ninja",
               "disassembler",
@@ -538,7 +538,7 @@
             "open_issues": 9,
             "owner": "sec-bit",
             "repo": "awesome-buggy-erc20-tokens",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "awesome",
               "awesome-list",
@@ -592,7 +592,7 @@
             "open_issues": 1,
             "owner": "cryptofinlabs",
             "repo": "audit-checklist",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "ethereum",
               "security",
@@ -796,8 +796,8 @@
             "id": 262634046,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T03:11:08Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-14T04:55:08Z",
+            "open_issues": 28,
             "owner": "attestantio",
             "repo": "vouch",
             "stars": 154,
@@ -852,7 +852,7 @@
                     "open_issues": 158,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4781,
+                    "stars": 4783,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -925,7 +925,7 @@
                 "open_issues": 23,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1989,
+                "stars": 1990,
                 "topics": [
                   "aml",
                   "awesome",
@@ -961,7 +961,7 @@
             "open_issues": 23,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1989,
+            "stars": 1990,
             "topics": [
               "aml",
               "awesome",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:13:02.168Z",
+    "last_updated": "2026-11-15T02:38:15.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
