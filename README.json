@@ -163,7 +163,7 @@
             "open_issues": 10,
             "owner": "ZhangZhuoSJTU",
             "repo": "Web3Bugs",
-            "stars": 1824,
+            "stars": 1825,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -180,7 +180,7 @@
             "id": 515333796,
             "language": null,
             "license": "AGPL-3.0",
-            "last_commit": "2026-07-20T10:51:41Z",
+            "last_commit": "2026-11-18T17:36:14Z",
             "open_issues": 0,
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
@@ -277,7 +277,7 @@
             "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2664,
+            "stars": 2665,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -348,11 +348,11 @@
             "id": 147583941,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-04T22:55:42Z",
+            "last_commit": "2026-11-18T22:54:08Z",
             "open_issues": 522,
             "owner": "crytic",
             "repo": "slither",
-            "stars": 6419,
+            "stars": 6422,
             "topics": [
               "ethereum",
               "solidity",
@@ -378,7 +378,7 @@
             "open_issues": 132,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4278,
+            "stars": 4279,
             "topics": [
               "blockchain",
               "ethereum",
@@ -848,11 +848,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T01:33:16Z",
-                    "open_issues": 167,
+                    "last_commit": "2026-11-19T03:33:35Z",
+                    "open_issues": 169,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4786,
+                    "stars": 4784,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -925,7 +925,7 @@
                 "open_issues": 23,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1990,
+                "stars": 1991,
                 "topics": [
                   "aml",
                   "awesome",
@@ -961,7 +961,7 @@
             "open_issues": 23,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
-            "stars": 1990,
+            "stars": 1991,
             "topics": [
               "aml",
               "awesome",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:17:38.481Z",
+    "last_updated": "2026-11-19T04:10:24.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
