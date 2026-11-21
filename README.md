@@ -118,7 +118,7 @@ Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse res
 
 ## Security & Safety:
 
-* [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs/blob/main/papers/icse23.pdf) ⭐ 1,824 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - The research indicates that a notable proportion of exploitable bugs in smart contracts are functional bugs, which cannot be detected using simple and general oracles like reentrancy.
+* [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs/blob/main/papers/icse23.pdf) ⭐ 1,826 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - The research indicates that a notable proportion of exploitable bugs in smart contracts are functional bugs, which cannot be detected using simple and general oracles like reentrancy.
 
 * [A chronological and (hopefully) complete list of reentrancy attacks to date.](https://github.com/pcaversaccio/reentrancy-attacks) ⭐ 1,625 | 🐛 0 | 📅 2026-11-18
 
@@ -402,7 +402,7 @@ __________                 ___________           .__           .____    .__     
 ## Favourites:
 
 * [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list) ⚠️ Archived
-* [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) ⭐ 2,665 | 🐛 5 | 📅 2024-05-31
+* [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) ⭐ 2,664 | 🐛 5 | 📅 2024-05-31
 * [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) ⭐ 377 | 🐛 6 | 🌐 Python | 📅 2024-06-25
 * [Eth Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap) ⭐ 145 | 🐛 0 | 📅 2019-04-25
 * [Zhihu Research Base](https://zhuanlan.zhihu.com/p/265374061)
@@ -411,20 +411,20 @@ __________                 ___________           .__           .____    .__     
 
 ## Developer Tools
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,421 | 🐛 522 | 🌐 Python | 📅 2026-11-18 - A Solidity static analysis framework
-* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,277 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
+* [Slither](https://github.com/crytic/slither) ⭐ 6,422 | 🐛 522 | 🌐 Python | 📅 2026-11-18 - A Solidity static analysis framework
+* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,278 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
-* [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,526 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
+* [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,525 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
 * [Oyente](https://github.com/melonproject/oyente) ⚠️ Archived - Alternative static smart contract security analysis
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,026 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Visualise Solidity control flow for smart contract security analysis
 * [Ethersplay](https://github.com/crytic/ethersplay) ⚠️ Archived - EVM disassembler
-* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 633 | 🐛 9 | 🌐 Python | 📅 2024-02-15 - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
+* [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 632 | 🐛 9 | 🌐 Python | 📅 2024-02-15 - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 * [Evmdis](https://github.com/Arachnid/evmdis) ⭐ 567 | 🐛 8 | 🌐 Go | 📅 2022-05-09 - Alternative EVM disassembler
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) ⭐ 368 | 🐛 1 | 📅 2023-03-06 - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 * [Source](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) ⭐ 172 | 🐛 8 | 📅 2022-05-19 DeFi Defence DAO collection
 * [Hydra](https://github.com/IC3Hydra/Hydra) ⭐ 73 | 🐛 0 | 🌐 Haskell | 📅 2018-03-02 - Framework for cryptoeconomic contract security, decentralised security bounties
 * [Ethereum-datafarm](https://github.com/Nerolation/ethereum-datafarm) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2023-02-25 - Easy-to-use console app for parsing historical event data without requiring an archive node, using the Etherscan API.
-* [solc-verify](https://github.com/SRI-CSL/solidity/) ⭐ 53 | 🐛 46 | 🌐 C++ | 📅 2023-09-05 - A modular verifier for Solidity smart contracts
+* [solc-verify](https://github.com/SRI-CSL/solidity/) ⭐ 54 | 🐛 46 | 🌐 C++ | 📅 2023-09-05 - A modular verifier for Solidity smart contracts
 * [Adelaide](https://github.com/sec-bit/adelaide) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2019-01-31 - The SECBIT static analysis extension to Solidity compiler
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
 * [Securify](https://securify.chainsecurity.com/) - Security scanner for Ethereum smart contracts
@@ -459,7 +459,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Ethereum 2.0
 
-* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 154 | 🐛 30 | 🌐 Go | 📅 2026-11-19
+* [Ethereum 2.0 Multi-node Validator Client](https://github.com/attestantio/vouch) ⭐ 154 | 🐛 29 | 🌐 Go | 📅 2026-11-20
 * [Ethereum 2.0 Distributed Remote Key Manager](https://github.com/attestantio/dirk) ⭐ 105 | 🐛 16 | 🌐 Go | 📅 2026-10-28
 * [Beaconcha](https://beaconcha.in/)
 * [Beaconscan](https://beaconscan.com/)
@@ -472,7 +472,7 @@ __________                 ___________           .__           .____    .__     
 
 ### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,991 | 🐛 24 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,780 | 🐛 171 | 🌐 Elixir | 📅 2026-11-20
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,779 | 🐛 165 | 🌐 Elixir | 📅 2026-11-20
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 626 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
