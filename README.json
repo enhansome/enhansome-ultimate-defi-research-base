@@ -378,7 +378,7 @@
             "open_issues": 132,
             "owner": "ConsenSysDiligence",
             "repo": "mythril",
-            "stars": 4278,
+            "stars": 4279,
             "topics": [
               "blockchain",
               "ethereum",
@@ -852,7 +852,7 @@
                     "open_issues": 165,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4780,
+                    "stars": 4783,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -922,7 +922,7 @@
                 "language": null,
                 "license": "Unlicense",
                 "last_commit": "2026-06-03T14:21:13Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
                 "stars": 1992,
@@ -958,7 +958,7 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-06-03T14:21:13Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "OffcierCia",
             "repo": "On-Chain-Investigations-Tools-List",
             "stars": 1992,
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:09:01.215Z",
+    "last_updated": "2026-11-23T03:42:55.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
