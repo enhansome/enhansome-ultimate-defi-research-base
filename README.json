@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "hzysvilla",
             "repo": "Academic_Smart_Contract_Papers",
-            "stars": 648,
+            "stars": 649,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:43.869Z"
@@ -184,7 +184,7 @@
             "open_issues": 0,
             "owner": "pcaversaccio",
             "repo": "reentrancy-attacks",
-            "stars": 1627,
+            "stars": 1628,
             "topics": [
               "ethereum",
               "exploit",
@@ -349,7 +349,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-18T22:54:08Z",
-            "open_issues": 522,
+            "open_issues": 523,
             "owner": "crytic",
             "repo": "slither",
             "stars": 6421,
@@ -759,13 +759,13 @@
           "description": "0xsequence/erc20-meta-token",
           "children": [],
           "repo_info": {
-            "archived": false,
-            "description": "General ERC20 to ERC1155 Token Wrapper Contract",
+            "archived": true,
+            "description": "⚠️ ARCHIVED: no longer maintained. General ERC20 to ERC1155 Token Wrapper Contract",
             "homepage": null,
             "id": 165729827,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-02-13T16:30:11Z",
+            "last_commit": "2026-11-24T17:38:39Z",
             "open_issues": 16,
             "owner": "0xsequence",
             "repo": "erc20-meta-token",
@@ -848,11 +848,11 @@
                     "id": 117294980,
                     "language": "Elixir",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-23T18:16:38Z",
-                    "open_issues": 173,
+                    "last_commit": "2026-11-24T17:52:08Z",
+                    "open_issues": 174,
                     "owner": "blockscout",
                     "repo": "blockscout",
-                    "stars": 4782,
+                    "stars": 4783,
                     "topics": [
                       "blockchain",
                       "elixir",
@@ -988,7 +988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:56:54.941Z",
+    "last_updated": "2026-11-25T05:25:27.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",

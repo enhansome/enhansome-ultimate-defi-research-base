@@ -8,7 +8,7 @@
 
 #
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 35 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,900 | 🐛 19 | 🌐 Python | 📅 2026-11-03 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) ⭐ 35 | 🐛 0 | 📅 2024-08-07 [![Developer RoadMap](https://img.shields.io/badge/Developer-Road%20Map-blue)](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,900 | 🐛 21 | 🌐 Python | 📅 2026-11-03 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ##
 
@@ -28,7 +28,7 @@
 
 **| Follow:**
 
-* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 648 | 🐛 0 | 📅 2026-10-23
+* [Academic\_Smart\_Contract\_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) ⭐ 649 | 🐛 0 | 📅 2026-10-23
 * [Library of Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 277 | 🐛 4 | 📅 2023-12-26
 * [Compendium](https://github.com/sambacha/compendium) ⭐ 217 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-07-29
 * [blockchain science - rust edition](https://github.com/go-outside-labs/blockchain-science-rs) ⚠️ Archived
@@ -120,7 +120,7 @@ Also, x3, [here’s a handy a list of 8 tools to help find, read and analyse res
 
 * [Demystifying Exploitable Bugs in Smart Contracts](https://github.com/ZhangZhuoSJTU/Web3Bugs/blob/main/papers/icse23.pdf) ⭐ 1,826 | 🐛 10 | 🌐 Solidity | 📅 2025-06-19 - The research indicates that a notable proportion of exploitable bugs in smart contracts are functional bugs, which cannot be detected using simple and general oracles like reentrancy.
 
-* [A chronological and (hopefully) complete list of reentrancy attacks to date.](https://github.com/pcaversaccio/reentrancy-attacks) ⭐ 1,627 | 🐛 0 | 📅 2026-11-18
+* [A chronological and (hopefully) complete list of reentrancy attacks to date.](https://github.com/pcaversaccio/reentrancy-attacks) ⭐ 1,628 | 🐛 0 | 📅 2026-11-18
 
 * [The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf) -Investigation shows that the number of attacks did not necessarily decrease over the past few years, but for some vulnerabilities remained constant.
 
@@ -411,7 +411,7 @@ __________                 ___________           .__           .____    .__     
 
 ## Developer Tools
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,421 | 🐛 522 | 🌐 Python | 📅 2026-11-18 - A Solidity static analysis framework
+* [Slither](https://github.com/crytic/slither) ⭐ 6,421 | 🐛 523 | 🌐 Python | 📅 2026-11-18 - A Solidity static analysis framework
 * [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,279 | 🐛 132 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
 * [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,524 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
@@ -436,7 +436,7 @@ __________                 ___________           .__           .____    .__     
 ## Ethereum Tools
 
 * [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) ⭐ 377 | 🐛 6 | 🌐 Python | 📅 2024-06-25
-* [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token) ⭐ 205 | 🐛 16 | 🌐 TypeScript | 📅 2026-02-13
+* [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token) ⚠️ Archived
 * [BIP39 Derivation](https://iancoleman.io/bip39)
 * [Ethereum Gas Charts](https://ethereumprice.org/gas)
 * [Ethereum TxPool Statistics](https://txpool.zengo.com/)
@@ -472,7 +472,7 @@ __________                 ___________           .__           .____    .__     
 
 ### Moved here: [Link](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/blob/main/README.md) ⭐ 1,994 | 🐛 24 | 📅 2026-06-03
 
-* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,782 | 🐛 173 | 🌐 Elixir | 📅 2026-11-23
+* [Blockscout](https://github.com/blockscout/blockscout) ⭐ 4,783 | 🐛 174 | 🌐 Elixir | 📅 2026-11-24
 * [Orbit](https://github.com/s0md3v/Orbit) ⭐ 626 | 🐛 9 | 🌐 Python | 📅 2022-07-15
 * [Arronax](https://github.com/Cryptonomic/Arronax) ⭐ 32 | 🐛 66 | 🌐 TypeScript | 📅 2023-01-07
 * [BlockPath](http://blockpath.com)
@@ -533,4 +533,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
